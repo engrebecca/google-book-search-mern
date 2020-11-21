@@ -1,4 +1,4 @@
-# Google Books Search: MERN Review
+# Google Books Search
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Generic badge](https://img.shields.io/badge/Hard_Dependancy-express-red.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Hard_Dependancy-axios-yellow.svg)](https://shields.io/)
@@ -39,7 +39,7 @@ Here is our Google Book Search in action!:
 
 ## Deployed Link
 
-* [See Live Site]()
+* [Google Books Search](https://thawing-ravine-44987.herokuapp.com/) - view it live
 
 
 ## Code
